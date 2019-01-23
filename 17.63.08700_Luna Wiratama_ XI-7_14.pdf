@@ -1,0 +1,811 @@
+%PDF-1.2
+%םל¶¾
+1 0 obj
+<<
+/Type /Catalog
+/Pages 3 0 R
+/Outlines 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Outlines
+/Count 0
+>>
+endobj
+3 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [
+19 0 R 
+]
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Courier
+/Encoding /MacRomanEncoding
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Courier-Bold
+/Encoding /MacRomanEncoding
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Courier-Oblique
+/Encoding /MacRomanEncoding
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F4
+/BaseFont /Courier-BoldOblique
+/Encoding /MacRomanEncoding
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F5
+/BaseFont /Helvetica
+/Encoding /MacRomanEncoding
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F6
+/BaseFont /Helvetica-Bold
+/Encoding /MacRomanEncoding
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F7
+/BaseFont /Helvetica-Oblique
+/Encoding /MacRomanEncoding
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F8
+/BaseFont /Helvetica-BoldOblique
+/Encoding /MacRomanEncoding
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F9
+/BaseFont /Times-Roman
+/Encoding /MacRomanEncoding
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F10
+/BaseFont /Times-Bold
+/Encoding /MacRomanEncoding
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F11
+/BaseFont /Times-Italic
+/Encoding /MacRomanEncoding
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F12
+/BaseFont /Times-BoldItalic
+/Encoding /MacRomanEncoding
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F13
+/BaseFont /Symbol
+/Encoding /MacRomanEncoding
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F14
+/BaseFont /ZapfDingbats
+/Encoding /MacRomanEncoding
+>>
+endobj
+18 0 obj
+<</Title (untitled)
+/Author (anonymous)
+/CreationDate (D:20190123230601)
+/Producer (PDFgen)
+/Subject (unspecified)
+>>
+endobj
+19 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/Resources
+   <<
+   /Font   <<
+		/F1 4 0 R 
+		/F2 5 0 R 
+		/F3 6 0 R 
+		/F4 7 0 R 
+		/F5 8 0 R 
+		/F6 9 0 R 
+		/F7 10 0 R 
+		/F8 11 0 R 
+		/F9 12 0 R 
+		/F10 13 0 R 
+		/F11 14 0 R 
+		/F12 15 0 R 
+		/F13 16 0 R 
+		/F14 17 0 R 
+		>>
+
+   /ProcSet [/PDF /Text /ImageC]
+   >>
+/MediaBox [0 0 595 841]
+/Contents 20 0 R
+
+>>
+endobj
+20 0 obj
+<< /Length 16457 >>
+stream
+1 0 0 -1 0 841.8898 cm BT /F9 12 Tf 14.4 TL ET
+2 J
+0.0000 0.0000 0.0000 RG
+-1.0000 -1.0000 -1.0000 rg
+1.0000 w
+BT /F9 12.0 Tf 14.4 TL ET
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 77.6844 121.3585 Tm (Aldehyde) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 89.6705 201.5151 Tm (Alkene) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 88.9213 263.6926 Tm (Alkyne) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 89.6705 314.6332 Tm (Amide) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 87.4231 424.7548 Tm (Amine) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 360.8543 59.1810 Tm (Aromatic) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 325.6454 141.5849 Tm (Carboxylic acid) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 375.0877 211.2537 Tm (Ester) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 375.0877 282.4208 Tm (Ether) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 363.8508 330.3649 Tm (Ketone) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 367.5965 409.7723 Tm (Nitrile) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 369.8439 453.2217 Tm (Thiol) Tj T* ET
+%end drawString
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 175.2957 56.1845 m 194.0238 56.1845 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 195.2973 61.4284 Tm (OH) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 164.5831 61.4284 Tm (R) Tj T* ET
+%end drawString
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 173.0483 126.6816 m 183.5360 116.3672 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 195.5221 116.2635 m 208.2572 128.4851 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 188.0108 102.6304 m 188.0108 86.8987 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 191.0073 102.6304 m 191.0073 86.8987 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 184.8096 115.3655 Tm (C) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 209.5307 138.5884 Tm (H) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 184.8096 85.4004 Tm (O) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 162.3358 137.0902 Tm (R) Tj T* ET
+%end drawString
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 160.3131 180.6290 m 173.0483 193.5604 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 173.0483 205.4550 m 160.3131 217.8760 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 218.7450 205.2202 m 232.9784 219.3289 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 218.7450 193.3050 m 232.2293 179.9425 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 185.0180 198.0641 m 206.7427 197.8285 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 185.0505 201.0604 m 206.7752 200.8248 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 174.3218 204.5116 Tm (C) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 208.0325 204.5116 Tm (C) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 233.5028 179.7904 Tm (R) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 234.2519 229.9819 Tm (R) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 149.6006 228.4836 Tm (R) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 149.6006 180.5395 Tm (R) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 86.6740 60.6793 Tm (Alcohol) Tj T* ET
+%end drawString
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 155.0692 263.9481 m 176.0448 263.4452 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 190.7095 259.8357 m 207.0030 259.6576 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 190.7832 266.5775 m 207.0768 266.3993 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 188.0308 263.2363 m 209.7555 262.9988 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 221.7415 262.9441 m 244.2153 262.9837 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 177.3183 268.1874 Tm (C) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 211.0290 268.1874 Tm (C) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 144.3567 269.6856 Tm (R) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 245.4888 268.1874 Tm (R) Tj T* ET
+%end drawString
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 177.8386 299.6689 m 177.6202 317.6479 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 174.8423 299.6325 m 174.6240 317.6115 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 170.0518 331.4913 m 158.8149 342.7973 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 182.0378 328.3403 m 200.0168 336.8967 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 212.0029 334.8788 m 226.2363 320.7912 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 206.7718 346.8457 m 206.8760 365.5738 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 171.3253 330.3649 Tm (C) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 227.5098 320.6262 Tm (R) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 202.7886 378.3090 Tm (R) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 148.1024 353.5878 Tm (R) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 172.0744 298.1524 Tm (O) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 201.2903 345.3474 Tm (N) Tj T* ET
+%end drawString
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 164.0587 426.6797 m 187.2817 426.9204 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 199.2677 432.2011 m 212.0029 444.8157 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 199.2677 421.7831 m 213.5011 407.6954 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 214.7746 407.5249 Tm (R) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 213.2764 455.4690 Tm (R) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 188.5552 432.2461 Tm (N) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 153.3462 431.4970 Tm (R) Tj T* ET
+%end drawString
+1 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 429.3472 48.6932 m 454.7687 36.5194 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+1 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 429.3472 75.9984 m 454.7687 89.6705 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 433.8419 52.1064 m 433.8419 72.5852 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+1 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 429.3472 48.6932 m 429.3472 75.9984 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 474.9757 74.3561 m 455.9096 84.0483 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+1 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 480.1902 76.7475 m 454.7687 89.6705 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 455.9096 42.1416 m 474.9757 51.8338 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+1 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 454.7687 36.5194 m 480.1902 49.4424 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+1 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 480.1902 49.4424 m 480.1902 76.7475 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0 J
+0 J
+0 J
+0 J
+0 J
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 439.7374 155.5179 m 450.2252 145.2051 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 462.2112 144.5481 m 475.6955 157.9162 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 455.0771 131.0972 m 455.0771 115.3655 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 458.0736 131.0972 m 458.0736 115.3655 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 451.4987 143.8323 Tm (C) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 451.4987 113.8673 Tm (O) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 429.0249 165.5570 Tm (R) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 476.9690 168.5535 Tm (OH) Tj T* ET
+%end drawString
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 433.7444 231.9369 m 443.4830 222.3608 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 455.4690 221.7022 m 468.9533 235.0790 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 448.3376 208.2572 m 448.3376 192.5256 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 451.3341 208.2572 m 451.3341 192.5256 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 480.9393 234.5318 m 493.6745 221.6807 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 444.7565 220.9924 Tm (C) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 444.7565 191.0273 Tm (O) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 423.0319 242.7171 Tm (R) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 470.2268 245.7136 Tm (O) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 494.9480 220.9924 Tm (R) Tj T* ET
+%end drawString
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 432.2461 282.0440 m 451.7234 282.0440 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 463.7094 281.9152 m 486.9324 281.4156 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 421.5336 286.9155 Tm (R) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 452.9969 286.9155 Tm (O) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 488.2059 286.1664 Tm (R) Tj T* ET
+%end drawString
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 435.2426 364.5323 m 444.9813 354.9562 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 456.9673 354.2977 m 470.4516 367.6744 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 449.8359 340.8527 m 449.8359 325.1210 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 452.8324 340.8527 m 452.8324 325.1210 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 446.2548 353.5878 Tm (C) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 446.2548 323.6227 Tm (O) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 424.5301 375.3125 Tm (R) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 471.7251 378.3090 Tm (R) Tj T* ET
+%end drawString
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 432.2461 406.0317 m 452.4725 406.0216 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 467.2309 402.5553 m 484.0863 402.3711 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 467.3046 409.2971 m 484.1600 409.1128 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 464.4586 405.9569 m 486.9324 405.7112 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 453.7460 411.2706 Tm (C) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 421.5336 411.2706 Tm (R) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 488.2059 410.5214 Tm (N) Tj T* ET
+%end drawString
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 432.9952 448.7296 m 453.9708 448.7113 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 422.2827 453.9708 Tm (R) Tj T* ET
+%end drawString
+%begin drawString
+BT /F7 12.0 Tf 14.4 TL ET
+BT 1 0 0 -1 0.0000 0.0000 Tm 0.0000 0.0000 0.0000 rg 1 0 0 -1 455.2443 453.9708 Tm (SH) Tj T* ET
+%end drawString
+0 J
+0.0000 0.0000 0.0000 RG
+0.7491 w
+n 289.1629 28.4668 m 289.1629 477.9428 l S
+0.0000 0.0000 0.0000 RG
+1.0000 w
+0 J
+0 J
+endstream
+endobj
+xref
+0 21
+0000000000 65535 f
+0000000017 00000 n
+0000000089 00000 n
+0000000141 00000 n
+0000000211 00000 n
+0000000326 00000 n
+0000000446 00000 n
+0000000569 00000 n
+0000000696 00000 n
+0000000813 00000 n
+0000000935 00000 n
+0000001061 00000 n
+0000001191 00000 n
+0000001311 00000 n
+0000001431 00000 n
+0000001553 00000 n
+0000001679 00000 n
+0000001795 00000 n
+0000001917 00000 n
+0000002059 00000 n
+0000002450 00000 n
+trailer
+<< /Size 21 /Root 1 0 R /Info 18 0 R>>
+startxref
+18965
+%%EOF
